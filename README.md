@@ -6,3 +6,4 @@
 
 For my STA 445 Class
 Contains all my assignments for this course.
+All 7 homework assignments.
